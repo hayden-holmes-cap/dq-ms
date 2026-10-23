@@ -1,0 +1,5 @@
+id,email,country
+1,test@test.com,US
+2,,US
+3,bad_email,UK
+4,john@test.com,CA
